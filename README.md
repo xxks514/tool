@@ -8,5 +8,9 @@
 - 生成三种客户端配置分享格式
 
 ## 使用方法
+
+bash <(curl -fsSL https://raw.githubusercontent.com/xxks514/tool/main/install_hysteria.sh) [端口] [密码]
+
+
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/xxks514/tool/main/install_hysteria.sh) [端口] [密码]
