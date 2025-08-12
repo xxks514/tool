@@ -13,4 +13,4 @@ bash <(curl -fsSL https://raw.githubusercontent.com/xxks514/tool/main/install_hy
 
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/xxks514/tool/main/install_hysteria.sh) [端口] [密码]
+bash <(curl -fsSL https://raw.githubusercontent.com/xxks514/tool/main/install_hysteria.sh) 
